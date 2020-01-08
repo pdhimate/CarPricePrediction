@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Datasets\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CarPricePredictionML.Model\CarPricePredictionML.Model.csproj" />
+  </ItemGroup>
+
+</Project>
