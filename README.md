@@ -1,6 +1,6 @@
 # Price prediction of a used car
 
-This POC invovled scraping data from an Australian website for reselling goods called GumTree. I have not included the code used for scraping in this repo. The dataset in available in the repo.
+This POC invovled scraping data from an Australian website for reselling goods called GumTree. I have not included the code used for scraping in this repo. The dataset is available in the repo.
 
 # Technologies used
 ML .Net, C#, VS 2019, .Net Core
