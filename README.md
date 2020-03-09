@@ -14,4 +14,5 @@ The trainined model has a 60% accurancy and can recognize the following patterns
 - Used cars with manual transimission cost less than an automatic one. 
 
 # Demo
-https://www.youtube.com/watch?v=LY11TNUQ5zw&t=208s
+https://www.youtube.com/watch?v=LY11TNUQ5zw
+
